@@ -7,32 +7,72 @@
     <string name="btn">Next</string>
     <string name="btn2">Prev</string>
     <string name="home">Go To Home Page</string>
+    <string name="quiz_title">Choose Correct Option</string>
+    <string name="q1">1</string>
+    <string name="q2">2</string>
+    <string name="q3">3</string>
+    <string name="q4">4</string>
+    <string name="q5">5</string>
 
-    <string name="A">A</string>
-    <string name="B">B</string>
-    <string name="C">C</string>
-    <string name="D">D</string>
-    <string name="E">E</string>
-    <string name="F">F</string>
-    <string name="G">G</string>
-    <string name="H">H</string>
-    <string name="I">I</string>
-    <string name="J">J</string>
-    <string name="K">K</string>
-    <string name="L">L</string>
-    <string name="M">M</string>
-    <string name="N">N</string>
-    <string name="O">O</string>
-    <string name="P">P</string>
-    <string name="Q">Q</string>
-    <string name="R">R</string>
-    <string name="S">S</string>
-    <string name="T">T</string>
-    <string name="U">U</string>
-    <string name="V">V</string>
-    <string name="W">W</string>
-    <string name="X">X</string>
-    <string name="Y">Y</string>
-    <string name="Z">Z</string>
+
+    <!--    Question 1 Options-->
+    <string name="op1">Lion</string>
+    <string name="op2">Dog</string>
+    <string name="op3">Tiger</string>
+    <!--    Question 2 Options-->
+    <string name="q2_op1">Parrot</string>
+    <string name="q2_op2">Cat</string>
+    <string name="q2_op3">Sparrow</string>
+
+
+    <!--    Question 3 Options-->
+    <string name="q3_op1">Jungle</string>
+    <string name="q3_op2">House</string>
+    <string name="q3_op3">Box</string>
+
+    <!--    Question 4 Options-->
+    <string name="q4_op1">Rabbit</string>
+    <string name="q4_op2">Monkey</string>
+    <string name="q4_op3">Owl</string>
+
+    <!--    Question 5 Options-->
+    <string name="q5_op1">Monkey</string>
+    <string name="q5_op2">Hen</string>
+    <string name="q5_op3">Dog</string>
+
+
+
+    <!--    Question 6 Options-->
+    <string name="q6_op1">Mirror</string>
+    <string name="q6_op2">Glasses</string>
+    <string name="q6_op3">Umbrella</string>
+
+    <!--    Question 7 Options-->
+    <string name="q7_op1">Sparrow</string>
+    <string name="q7_op2">Pigeon</string>
+    <string name="q7_op3">Eagle</string>
+
+
+
+    <!--    Question 8 Options-->
+    <string name="q8_op1">Kitten</string>
+    <string name="q8_op2">Dog</string>
+    <string name="q8_op3">Monkey</string>
+
+
+    <!--    Question 9 Options-->
+    <string name="q9_op1">Elephant</string>
+    <string name="q9_op2">Dog</string>
+    <string name="q9_op3">Wolf</string>
+
+
+
+    <!--    Question 10 Options-->
+    <string name="q10_op1">Orange</string>
+    <string name="q10_op2">Apple</string>
+    <string name="q10_op3">Banana</string>
+
+
+
 
 </resources>
