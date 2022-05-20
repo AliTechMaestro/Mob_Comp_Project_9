@@ -10,28 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
-            android:name=".Activity_J"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_I"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_H"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_G"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_F"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_E"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_D"
-            android:exported="false" />
-        <activity
-            android:name=".Activity_C"
+            android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".ActivityQuiz"

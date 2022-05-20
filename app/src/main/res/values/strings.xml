@@ -5,6 +5,8 @@
     <string name="txt2">Quiz Module</string>
     <string name="txt3">Please Select Module</string>
     <string name="btn">Next</string>
+    <string name="btn2">Prev</string>
+    <string name="home">Go To Home Page</string>
 
     <string name="A">A</string>
     <string name="B">B</string>
