@@ -13,6 +13,7 @@
     <string name="q3">3</string>
     <string name="q4">4</string>
     <string name="q5">5</string>
+    <string name="submit">Submit</string>
 
 
     <!--    Question 1 Options-->
@@ -41,7 +42,6 @@
     <string name="q5_op3">Dog</string>
 
 
-
     <!--    Question 6 Options-->
     <string name="q6_op1">Mirror</string>
     <string name="q6_op2">Glasses</string>
@@ -51,7 +51,6 @@
     <string name="q7_op1">Sparrow</string>
     <string name="q7_op2">Pigeon</string>
     <string name="q7_op3">Eagle</string>
-
 
 
     <!--    Question 8 Options-->
@@ -66,13 +65,14 @@
     <string name="q9_op3">Wolf</string>
 
 
-
     <!--    Question 10 Options-->
     <string name="q10_op1">Orange</string>
     <string name="q10_op2">Apple</string>
     <string name="q10_op3">Banana</string>
 
 
+    <string name="result">Quiz Result</string>
+    <string name="QuizMod">Re-attempt</string>
 
 
 </resources>
