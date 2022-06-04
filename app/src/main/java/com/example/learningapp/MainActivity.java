@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         mod_learn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,ActivityLearning.class);
+                Intent intent = new Intent(MainActivity.this,MainActivityListView.class);
                 startActivity(intent);
             }
         });
@@ -37,8 +37,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
-
 
 
 
