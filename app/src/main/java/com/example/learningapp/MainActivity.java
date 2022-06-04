@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         mod_quiz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,ActivityQuiz.class);
+                Intent intent = new Intent(MainActivity.this,MainActivityQuizView.class);
                 startActivity(intent);
             }
         });

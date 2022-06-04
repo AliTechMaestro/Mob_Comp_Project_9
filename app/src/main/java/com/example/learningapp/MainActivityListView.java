@@ -17,7 +17,7 @@ public class MainActivityListView extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_list_view);
 
-        list = findViewById(R.id.alpha_ListView);
+        list = findViewById(R.id.ques_ListView);
 
 
         al.add(new Alphabets(R.drawable.a));

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
+            android:name=".MainActivityQuizAnswer"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityQuizView"
+            android:exported="false" />
+        <activity
             android:name=".SingleActivityDisplay"
             android:exported="false" />
         <activity
